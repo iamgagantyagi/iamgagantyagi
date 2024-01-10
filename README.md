@@ -88,10 +88,10 @@ hobbies: ["Gaming", "Cricket", "Travelling", "Art", "Comedy"]
 
 ---
 <p>
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamgagantyagi&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamgagantyagi&show_icons=true&locale=en&layout=compact" />
 </p>
 <p>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=iamgagantyagi" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=iamgagantyagi&show_icons=true&locale=en" />
 </p>
 
 <p align="center">
