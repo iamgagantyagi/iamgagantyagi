@@ -26,8 +26,10 @@
 
 
 ---
-
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamgagantyagi&label=Profile%20views&color=0e75b6&style=plastic&abbreviated=true" alt="iamgagantyagi" /> 
+</p>
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests
+</h2>
 
 ```yaml
 name: Gagan Tyagi
@@ -84,6 +86,14 @@ hobbies: ["Gaming", "Cricket", "Travelling", "Art", "Comedy"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx" width="45" height="45"/>       
 </p>
 
+---
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=iamgagantyagi" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamgagantyagi&layout=compact&langs_count=8&card_width=320" />
+</a>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
