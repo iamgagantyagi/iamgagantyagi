@@ -87,10 +87,14 @@ hobbies: ["Gaming", "Cricket", "Travelling", "Art", "Comedy"]
 </p>
 
 ---
+📕 &nbsp;**Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamgagantyagi&show_icons=true&locale=en&layout=compact" alt="iamgagantyagi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamgagantyagi&show_icons=true&locale=en" alt="iamgagantyagi" /></p>
+<p>&nbsp;<img height="165" align="center" src="https://github-readme-stats.vercel.app/api?username=iamgagantyagi&show_icons=true&locale=en" alt="iamgagantyagi" /></p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
