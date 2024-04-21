@@ -89,7 +89,7 @@ hobbies: ["Gaming", "Cricket", "Travelling", "Art", "Comedy"]
 ---
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [test job for testing the github workflow](https://iamgagantyagi.medium.com/test-7f15d9e42003?source=rss-8892f5387155------2)
+- [Deploying Multiple NGINX Ingress Controllers in an OCI Virtual Node Cluster](https://iamgagantyagi.medium.com/deploying-multiple-nginx-ingress-controllers-in-an-oci-virtual-node-cluster-d7807ad55c85?source=rss-8892f5387155------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamgagantyagi&show_icons=true&locale=en&layout=compact" alt="iamgagantyagi" /></p>
